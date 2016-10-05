@@ -1,0 +1,19 @@
+{
+  "name": "huaxing",
+  "version": "1.0.0",
+  "description": "huaxing",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steinwh",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-concat": "^2.6.0",
+    "browser-sync": "^2.14.0"
+  }
+}
