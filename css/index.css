@@ -1,0 +1,12 @@
+#banner_box{
+    height: 650px;
+    width: 100%;
+    background-color: #fdeddc;
+}
+#banner_content{
+    height: 650px;
+    width: 1000px;
+    left: 50%;
+    margin-left: -500px;
+    position: absolute;
+}
