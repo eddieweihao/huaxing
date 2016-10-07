@@ -32,7 +32,7 @@
     color: #555555;
     font-size: 16px;
 }
-#a_active a{
+#a_active>a{
     color: #fb0058;
 }
 #nav_logo{

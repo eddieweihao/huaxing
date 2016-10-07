@@ -1,0 +1,18 @@
+#trademark_box{
+    height: 2000px;
+    width: 100%;
+    background-color: #fdeddc;
+}
+#trademark_content{
+    height: auto;
+    width: 805px;
+    left: 50%;
+    margin-left: -403px;
+    position: absolute;
+    padding-top: 100px;
+    text-align: center;
+}
+#trademark_content p{
+    line-height: 80px;
+    font-size: 22px;
+}
