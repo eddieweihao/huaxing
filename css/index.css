@@ -5,8 +5,9 @@
 }
 #banner_content{
     height: 650px;
-    width: 1000px;
+    width: 999px;
     left: 50%;
     margin-left: -500px;
     position: absolute;
+    background-image: url("../image/background/room_bg.jpg");
 }
