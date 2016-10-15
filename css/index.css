@@ -1,7 +1,7 @@
 #banner_box{
     height: 650px;
     width: 100%;
-    background-color: #fdeddc;
+    background-image: url("../image/background/container_bg1.gif");
 }
 #banner_content{
     height: 650px;

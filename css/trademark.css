@@ -1,10 +1,10 @@
 #trademark_box{
     height: 2000px;
     width: 100%;
-    background-color: #fdeddc;
+    background-image: url("../image/background/container_bg2.png");
 }
 #trademark_content{
-    height: auto;
+    height: 2000px;
     width: 805px;
     left: 50%;
     margin-left: -403px;

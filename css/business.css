@@ -1,0 +1,12 @@
+#business_box{
+    height: 650px;
+    width: 100%;
+    background-image: url("../image/background/container_bg2.png");
+}
+#business_content{
+    height: 650px;
+    width: 1000px;
+    left: 50%;
+    margin-left: -500px;
+    position: absolute;
+}
