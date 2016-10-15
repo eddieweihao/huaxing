@@ -1,10 +1,10 @@
 #development_box{
-    height: 1100px;
+    height: 1000px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
 #development_content{
-    height: 1100px;
+    height: 1000px;
     width: 800px;
     left: 50%;
     margin-left: -400px;
@@ -36,5 +36,5 @@
     padding-left: 35px;
     padding-top: 5px;
     padding-bottom: 35px;
-    font-size: 22px;
+    font-size: 20px;
 }
