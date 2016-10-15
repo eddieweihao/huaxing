@@ -1,0 +1,65 @@
+#testing_box{
+    height: 850px;
+    width: 100%;
+    background-image: url("../image/background/container_bg2.png");
+}
+#testing_content{
+    height: 850px;
+    width: 1000px;
+    left: 50%;
+    margin-left: -500px;
+    position: absolute;
+    padding-top: 100px;
+}
+
+.testing_hr{
+    background-color:#888888;
+    height: 2px;
+}
+
+.testing_img_box{
+    width: 250px;
+    height: 180px;
+    float: left;
+    text-align: center;
+}
+
+.testing_img{
+    width: 200px;
+    height: 110px;
+    margin: 15px auto 5px auto;
+    border: 2px solid;
+}
+
+.testing_img_normal{
+    border-color: #888888;
+}
+.testing_img_normal:hover{
+    border-color: #fb0058;
+}
+
+/*.business_img_active{*/
+/*border-color: #fb0058;*/
+/*}*/
+
+.testing_img img{
+    height: 100%;
+}
+
+#testing_cover{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 99;
+    background-color: rgba(0,0,0,0.7);
+
+    display: none;
+}
+
+#testing_cover_img{
+    position: absolute;
+    margin-top: 100px;
+    left: 50%;
+    border: 2px solid #ffffff;
+}
