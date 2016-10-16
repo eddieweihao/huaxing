@@ -1,10 +1,10 @@
 #pillow_box{
-    height: 800px;
+    height: 1000px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
 #pillow_content{
-    height: 800px;
+    height: 1000px;
     width: 1000px;
     left: 50%;
     margin-left: -500px;
@@ -15,4 +15,14 @@
 .pillow_hr{
     background-color:#888888;
     height: 2px;
+}
+
+.pillow_img{
+    width: 600px;
+    height: 450px;
+    margin: 40px auto;
+}
+
+.pillow_des{
+    padding-left: 30px;
 }
