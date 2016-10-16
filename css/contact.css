@@ -1,0 +1,18 @@
+#contact_box{
+    height: 800px;
+    width: 100%;
+    background-image: url("../image/background/container_bg2.png");
+}
+#contact_content{
+    height: 800px;
+    width: 1000px;
+    left: 50%;
+    margin-left: -500px;
+    position: absolute;
+    padding-top: 100px;
+}
+
+.contact_hr{
+    background-color:#888888;
+    height: 2px;
+}
