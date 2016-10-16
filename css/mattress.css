@@ -1,9 +1,9 @@
-#choose_box{
+#mattress_box{
     height: 800px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
-#choose_content{
+#mattress_content{
     height: 800px;
     width: 1000px;
     left: 50%;
@@ -12,22 +12,7 @@
     padding-top: 100px;
 }
 
-.choose_hr{
+.mattress_hr{
     background-color:#888888;
     height: 2px;
-}
-
-.choose_tips{
-    width: 50%;
-    float: left;
-    padding: 0px 20px;
-}
-
-.choose_tips h4{
-    color: #fb0058;
-    font-weight: bold;
-}
-
-.choose_tips p{
-    font-size: 18px;
 }
