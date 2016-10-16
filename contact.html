@@ -12,6 +12,7 @@
     <link rel="shortcut icon" href="image/icon/lanxuanju-ico.ico"></head>
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
 </head>
 <body>
     <div id="top_box">
@@ -93,7 +94,17 @@
         <div id="contact_content">
             <h2>&nbsp;&nbsp;联系方式</h2>
             <hr class="contact_hr"/>
-
+            <div class="contact_address">
+                <p>公司地址：广东省汕尾市海丰县红城大道东</p>
+                <br/>
+                <!--百度地图容器-->
+                <div style="width:600px;height:550px;border:#ccc solid 1px;" id="dituContent"></div>
+                <br/>
+                <p>公司固话：0660-6403652</p>
+                <p>公司传真：0660-6406590</p>
+                <p>联系人：魏先生</p>
+                <p>手机号：13502392950</p>
+            </div>
         </div>
     </div>
 
@@ -149,6 +160,8 @@
             <span>© 1989-2016 华星海棉制品厂.All rights reserved</span>
         </div>
     </div>
+
+    <script type="text/javascript" src="js/contact.js"></script>
 </body>
 
 </html>

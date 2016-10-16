@@ -1,10 +1,10 @@
 #contact_box{
-    height: 800px;
+    height: 1050px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
 #contact_content{
-    height: 800px;
+    height: 1050px;
     width: 1000px;
     left: 50%;
     margin-left: -500px;
@@ -16,3 +16,14 @@
     background-color:#888888;
     height: 2px;
 }
+
+.contact_address{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+
+/*百度地图*/
+html,body{margin:0;padding:0;}
+.iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+.iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
