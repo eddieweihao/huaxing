@@ -1,10 +1,10 @@
 #development_box{
-    height: 1000px;
+    height: 1050px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
 #development_content{
-    height: 1000px;
+    height: 1050px;
     width: 800px;
     left: 50%;
     margin-left: -400px;

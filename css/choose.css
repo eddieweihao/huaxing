@@ -1,10 +1,10 @@
 #choose_box{
-    height: 800px;
+    height: 900px;
     width: 100%;
     background-image: url("../image/background/container_bg2.png");
 }
 #choose_content{
-    height: 800px;
+    height: 900px;
     width: 1000px;
     left: 50%;
     margin-left: -500px;
